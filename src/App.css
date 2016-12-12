@@ -1,0 +1,71 @@
+/* paletton.com. seed color 060644 */
+body {
+  color: #ffea14 !important;
+  background-color: #3a3a3a;
+}
+
+/*div { */
+/*  border: 1px solid green; */
+/*} */
+
+.foo {
+  margin: 0.33em;
+}
+
+input {
+  color: black !important;
+}
+
+.container {
+  background-color: #060644;
+}
+
+.title {
+  text-align: center;
+  font-size: 1.75em;
+}
+
+.rate {
+  color: black;
+  text-align: center;
+  border-radius: 4px;
+}
+
+.rate:hover {
+  cursor: pointer;
+}
+
+.rateButtons {
+  margin: 0.5em;
+  margin-right: 2.0em;
+}
+
+.fave {
+  background-color: #00cc00;
+}
+
+.like {
+  background-color: #33cc66;
+}
+
+.beer {
+  background-color: #cccc00;
+}
+
+.meh {
+  background-color: #cc3366;
+}
+
+.no {
+  background-color: #cc0000;
+}
+
+.listHeader {
+  margin-top: 1.5em;
+  padding: 0.33em;
+  color: black;
+}
+
+.listItem {
+  padding-left: 0.5em;
+}
